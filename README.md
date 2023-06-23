@@ -1,0 +1,2 @@
+# review-summarization
+A review summarizer which generates summaries based on online reviews from e-commerce platform. A deep learning model was trained by leveraging the transfer learning technique on pretrained BERT model. TensorFlow framework was utilized for implementation. The summarization model, along additional text mining efforts such as word cloud and sentiment analysis result was deployed as a web application.
